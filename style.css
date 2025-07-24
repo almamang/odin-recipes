@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card {
+    background-color: burlywood;
+    margin: 0 auto;
+    width: 1000px;
+    padding: 8px;
+}
+
+.title {
+    text-align: center;
+    border-bottom: 3px solid black;
+    margin-bottom: 8px;
+}
+
+.content {
+    border : 3px solid black;
+    padding: 8px;
+}
